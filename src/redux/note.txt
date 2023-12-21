@@ -1,0 +1,9 @@
+1) redux toolkit create cheyyan - configurestore  (ee method reduxc tool kit il aanu ullat)
+2) ee store ine alter cheyyan aanu reducer 
+
+ note : - create Action files method create Action , create Reduce method aanu kodukandat
+          ee method use cheyendat stand alone aayi nikumbo aanu use cheyendat
+
+3)slice vazhi aanu ivde cheyyunat
+   
+4) slice create cheyyan -createSlice (A function that accepts an initial state, an object full of reducer functions, and a "slice name", and automatically generates action creators and action types that correspond to the reducers and state.)
